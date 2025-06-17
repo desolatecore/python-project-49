@@ -1,4 +1,4 @@
-import random
+import secrets
 from brain_games.cli import welcome_user
 
 def main():
@@ -18,7 +18,7 @@ def play_game():
     while correct_answers < 3:
         start = 1
         end = 100
-        number = random.randint(start, end)
+        number = secrets.randint(start, end)
         print(f"Question: {number}")
         answer = input('Your answer: ')
         if is_even(number):
