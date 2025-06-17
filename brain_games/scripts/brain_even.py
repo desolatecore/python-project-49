@@ -16,7 +16,9 @@ def play_game():
     correct_answers = 0
 
     while correct_answers < 3:
-        number = random.randint(1, 100)
+        start = 1
+        end = 100
+        number = random.randint(start, end)
         print(f"Question: {number}")
         answer = input('Your answer: ')
         if is_even(number):
