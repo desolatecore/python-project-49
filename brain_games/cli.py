@@ -1,4 +1,4 @@
-from prompt import string
+from prompt import string # type: ignore
 
 
 def welcome_user():

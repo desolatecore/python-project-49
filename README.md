@@ -1,3 +1,14 @@
+My games rec on asciinema:
+
+BRAIN-EVEN:
+
+<a href="https://asciinema.org/a/dM01IVNyscHnVkbcwom8bgmqV" target="_blank"><img src="https://asciinema.org/a/dM01IVNyscHnVkbcwom8bgmqV.svg" /></a>
+
+BRAIN-CALC:
+
+<a href="https://asciinema.org/a/eJC74Qc1Vdledq1qdz96U1RtJ" target="_blank"><img src="https://asciinema.org/a/eJC74Qc1Vdledq1qdz96U1RtJ.svg" /></a>
+
+
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/desolatecore/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/desolatecore/python-project-49/actions)
 
@@ -21,5 +32,3 @@
 
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=desolatecore_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=desolatecore_python-project-49)
 
-My first game rec on asciinema:
-<a href="https://asciinema.org/a/dM01IVNyscHnVkbcwom8bgmqV" target="_blank"><img src="https://asciinema.org/a/dM01IVNyscHnVkbcwom8bgmqV.svg" /></a>
