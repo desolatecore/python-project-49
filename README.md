@@ -8,6 +8,9 @@ BRAIN-CALC:
 
 <a href="https://asciinema.org/a/eJC74Qc1Vdledq1qdz96U1RtJ" target="_blank"><img src="https://asciinema.org/a/eJC74Qc1Vdledq1qdz96U1RtJ.svg" /></a>
 
+BRAIN-GCD:
+
+<a href="https://asciinema.org/a/OJU8KDk4WUpSNms8O2Mn4nEE6" target="_blank"><img src="https://asciinema.org/a/OJU8KDk4WUpSNms8O2Mn4nEE6.svg" /></a>
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/desolatecore/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/desolatecore/python-project-49/actions)
