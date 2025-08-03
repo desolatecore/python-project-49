@@ -12,6 +12,10 @@ BRAIN-GCD:
 
 <a href="https://asciinema.org/a/OJU8KDk4WUpSNms8O2Mn4nEE6" target="_blank"><img src="https://asciinema.org/a/OJU8KDk4WUpSNms8O2Mn4nEE6.svg" /></a>
 
+BRAIN-PROGRESSION:
+
+<a href="https://asciinema.org/a/vwdhEmidLn3Y8e5J4f3dfdEpV" target="_blank"><img src="https://asciinema.org/a/vwdhEmidLn3Y8e5J4f3dfdEpV.svg" /></a>
+
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/desolatecore/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/desolatecore/python-project-49/actions)
 
