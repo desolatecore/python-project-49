@@ -1,7 +1,8 @@
-import random
 import operator
+import random
 
 game_task = "What is the result of the expression?"
+
 
 def get_question_and_answer():
     num1 = random.randint(1, 100)
